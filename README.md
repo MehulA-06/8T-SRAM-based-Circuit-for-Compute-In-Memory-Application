@@ -40,9 +40,9 @@ The design reduces the **Von Neumann bottleneck** by minimizing data transfer be
 
 ## Architecture
 
-![1x8 CIM Array](8T%20SRAM%20based%20Circuit%20for%20Compute%20In%20Memory%20Application/Images/1x8_CIM_Array.png)
+![1x8 CIM Array](Images/1x8_CIM_Array.png)
 
-![8T SRAM Cell](8T%20SRAM%20Based%20Circuit%20For%20Compute%20In%20Memory%20Application/Images/8T_SRAM_Cell_schematic.png)
+![8T SRAM Cell](Images/8T_SRAM_Cell_schematic.png)
 
 
 ---
